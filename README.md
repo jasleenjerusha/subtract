@@ -1,3 +1,3 @@
-# subtract
-subtracting numbers
-this is to subtract two integers. 
+## Subtract
+#Subtracting Numbers
+This is to subtract two integers. 
